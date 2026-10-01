@@ -177,12 +177,6 @@ APPS = [
         "แนะนำ Hotel จากความสัมพันธ์และ Hotel ที่ผู้ใช้ที่มีความสนใจคล้ายกันชอบ",
         "https://eclthdo5ujipj8on9fo2de.streamlit.app/",
     ),
-    (
-        "🗄️",
-        "Neo4j Database",
-        "ฐานข้อมูลกราฟที่ใช้จัดเก็บ User, Hotel และความสัมพันธ์",
-        "https://neo4j.com/",
-    ),
 ]
 
 # 4 cards: 3 cards on the first row and 1 centered on the second row.
