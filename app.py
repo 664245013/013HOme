@@ -158,19 +158,19 @@ APPS = [
         "🎌",
         "โครงสร้างข้อมูล Anime & User",
         "จัดการข้อมูล User และ Anime ด้วยฐานข้อมูลกราฟ Neo4j",
-        "https://colab.research.google.com/drive/1KMFRz3LPGn4fD5jBG-ZwCuxoh_yIozvE?usp=sharing",
+        "https://colab.research.google.com/drive/1k4c6Iaxotk_5U_4JSEa8sH-gpGVlg8WF?usp=sharing",
     ),
     (
         "👥",
         "วิเคราะห์ความสัมพันธ์ User",
         "วิเคราะห์ความสัมพันธ์ FRIEND_OF และประวัติการดู Anime",
-        "https://colab.research.google.com/drive/1UYPIwMs_xU9LFInJJ1FPOMk_e7nA3_Pt?usp=sharing",
+        "https://colab.research.google.com/drive/1mCthb9xYtimhEANP4ljIepC2G9y9mp1s?usp=sharing",
     ),
     (
         "🎯",
         "ระบบแนะนำ Anime",
         "แนะนำ Anime จากความสัมพันธ์และ Anime ที่เพื่อนเคยดู",
-        "https://9suvavqbzjuffsung5rryh.streamlit.app/",
+        "https://eclthdo5ujipj8on9fo2de.streamlit.app/",
     ),
     (
         "🗄️",
